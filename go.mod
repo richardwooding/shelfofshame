@@ -7,11 +7,11 @@ require (
 	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/cucumber/godog v0.16.0
 	github.com/henvic/httpretty v0.2.0
-	github.com/modelcontextprotocol/go-sdk v1.7.0
+	github.com/modelcontextprotocol/go-sdk v1.8.0
 	github.com/muesli/termenv v0.16.0
 	github.com/pborman/indent v1.2.1
 	github.com/seborama/govcr/v15 v15.3.0
-	golang.org/x/time v0.15.0
+	golang.org/x/time v0.16.0
 )
 
 require (
